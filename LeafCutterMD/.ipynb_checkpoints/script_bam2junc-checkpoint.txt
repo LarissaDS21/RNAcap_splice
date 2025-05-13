@@ -1,0 +1,3 @@
+$ /conda/bin/parallel -j4 --progress 'sh bam2junc.sh twopass_bams/CTRLs/{}/{}_Aligned.sortedByCoord.out.bam Junctions/twopass10_2024/{}_Aligned.sortedByCoord.out.bam.junc; echo Junctions/twopass10_2024/{}_Aligned.sortedByCoord.out.bam.junc >> juncfiles-SRR.txt' < tags
+
+#Criar um arquivo que contenha o caminho dos arquivos de junções (arquivo.bam.junc) apenas para os CTRLs → /mnt/gluster01/lgbm/Larissa.Souza/PSI/LeafcutterMD/ctrls_srr-final.txt

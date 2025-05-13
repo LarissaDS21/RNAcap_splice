@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-tidyverse
+  - r-data.table
+  - r-openxlsx
+  - nbconvert
+  - r-irkernel
+  - r-purrr

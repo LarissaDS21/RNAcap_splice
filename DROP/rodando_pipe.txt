@@ -1,0 +1,5 @@
+#Simulacao com 20 cores
+$ snakemake aberrantSplicing –c20 –n
+
+#Rodando normal
+$ snakemake aberrantSplicing  -c20 
