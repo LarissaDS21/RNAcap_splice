@@ -1,2 +1,2 @@
 # RNAcap_splice
-Code used for splicing analysis using three bioinformatic tools: rMATS (for differential splicing analysis), LeafCutterMD, and DROP/FRASER2 (for aberrant splicing detection) based on targeted RNA sequencing of 27 hereditary cancer predisposition genes
+Code used for splicing analysis using three bioinformatic tools: rMATS (for differential splicing analysis), LeafCutterMD, and DROP/FRASER2 (for aberrant splicing detection) based on targeted RNA sequencing (RNA-cap) of 27 hereditary cancer predisposition genes. The raw RNA-cap FASTQs from patients and control individuals are deposited in the SRA (NCBI) under the access code PRJNA1255641, with the link https://dataview.ncbi.nlm.nih.gov/object/PRJNA1255641?reviewer=bnm7bnok9k9n1k1vgb7ip5qun1&archive=sra.
